@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LisArt10.github.io/Metalica/static/css/main.11dd8ba7.css",
-    "main.js": "/LisArt10.github.io/Metalica/static/js/main.b6436cac.js",
-    "static/js/787.8eb42f38.chunk.js": "/LisArt10.github.io/Metalica/static/js/787.8eb42f38.chunk.js",
-    "static/media/bg.jpg": "/LisArt10.github.io/Metalica/static/media/bg.60b7fc658f9c107e3d97.jpg",
-    "index.html": "/LisArt10.github.io/Metalica/index.html",
-    "main.11dd8ba7.css.map": "/LisArt10.github.io/Metalica/static/css/main.11dd8ba7.css.map",
-    "main.b6436cac.js.map": "/LisArt10.github.io/Metalica/static/js/main.b6436cac.js.map",
-    "787.8eb42f38.chunk.js.map": "/LisArt10.github.io/Metalica/static/js/787.8eb42f38.chunk.js.map"
+    "main.css": "/Metalica/static/css/main.acd60236.css",
+    "main.js": "/Metalica/static/js/main.89a4501d.js",
+    "static/js/787.8eb42f38.chunk.js": "/Metalica/static/js/787.8eb42f38.chunk.js",
+    "static/media/bg.jpg": "/Metalica/static/media/bg.60b7fc658f9c107e3d97.jpg",
+    "index.html": "/Metalica/index.html",
+    "main.acd60236.css.map": "/Metalica/static/css/main.acd60236.css.map",
+    "main.89a4501d.js.map": "/Metalica/static/js/main.89a4501d.js.map",
+    "787.8eb42f38.chunk.js.map": "/Metalica/static/js/787.8eb42f38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11dd8ba7.css",
-    "static/js/main.b6436cac.js"
+    "static/css/main.acd60236.css",
+    "static/js/main.89a4501d.js"
   ]
 }
